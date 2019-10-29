@@ -1,3 +1,10 @@
+#Program Description:
+#This script automate post-processing images and video for transient flow field from Paraview
+#Author: Fong Pan (Peter), Indeelabs
+#Version: Revion-09
+#Date: Oct 27, 2019
+
+#-----------------------------------------------
 #### import the simple module from the paraview
 from paraview.simple import *
 
